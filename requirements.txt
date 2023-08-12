@@ -1,0 +1,15 @@
+langchain
+python-multipart
+langchain_experimental
+fastapi
+pandas
+pillow
+appdirs
+rich
+alembic
+sqlmodel
+orjson
+docstring_parser
+cachetools
+multiprocess
+uvicorn
