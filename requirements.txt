@@ -13,3 +13,6 @@ docstring_parser
 cachetools
 multiprocess
 uvicorn
+openai
+websockets
+wsproto
